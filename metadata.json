@@ -1,0 +1,6 @@
+{
+  "name": "Water Billing System",
+  "description": "A comprehensive water billing management system to track customers and generate bills natively stored on SQLite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
